@@ -1,3 +1,5 @@
+![CI Pipeline](https://github.com/shamsnahidk/devops-fastapi-ci-cd/actions/workflows/ci.yml/badge.svg)
+
 # DevOps FastAPI CI/CD Project
 
 A Dockerized FastAPI backend service with automated testing and CI pipeline using GitHub Actions.
